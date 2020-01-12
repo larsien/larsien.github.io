@@ -85,4 +85,4 @@ exclude:
   - README.md
   - CNAME
 
-remote-theme: aweekj/Kiko-plus
+remote_theme: "mmistakes/minimal-mistakes@4.17.2"
