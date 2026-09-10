@@ -147,7 +147,7 @@
 - 서비스명: 밈주 (Memejoo)
 - 제공사: 너츠 스튜디오 (Nuts Studio)
 - 웹사이트: https://meme-joo.vercel.app
-- 문의 이메일: contact@nutsstudio.com
+- 문의 이메일: kahvilavalas@gmail.com
 - 개인정보 보호 책임자: Nuts Studio 개인정보 보호 담당 부서
 
 
